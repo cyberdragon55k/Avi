@@ -1,0 +1,33 @@
+gemini api "AIzaSyCw9XFObRsMtb-J-SJjbn53Q9Y_JOt_BHo"
+
+
+
+
+
+
+
+
+hey i have a project idea where the screen is recoded and then the video is converted to photo pngs by a python script to automate the process then using googles firebase as a backend for dashboard it stores the photo / screenshots then using cloud function or serverless then using geminis api which is free to classifiy the data and label it then in dashboard it tells this part you tell what can dashboard give
+
+
+
+Final Recommendation
+Use FFmpeg + Python for reliability and control. Example workflow:
+
+1. Record screen with ffmpeg.
+
+2. Split frames with Python + OpenCV.
+
+3. Upload to Firebase.
+
+4. Process with Gemini.     
+   
+
+AVI (Automated Visual Intelligence)
+
+Avi - AI-Driven Video Insights
+
+AviFlow.in
+
+Tagline 
+"Illuminate your screen habits."

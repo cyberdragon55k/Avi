@@ -1,0 +1,47 @@
+[
+  {
+    "frame": "frame_001.png",
+    "timestamp": "2025-05-06T12:50:50.145722",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "frame_002.png",
+    "timestamp": "2025-05-06T12:50:52.497650",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "frame_003.png",
+    "timestamp": "2025-05-06T12:50:55.259661",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "frame_004.png",
+    "timestamp": "2025-05-06T12:50:57.690427",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "frame_005.png",
+    "timestamp": "2025-05-06T12:51:00.245672",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "frame_006.png",
+    "timestamp": "2025-05-06T12:51:02.653252",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "screenshot_001.png",
+    "timestamp": "2025-05-06T12:51:05.252436",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "screenshot_002.png",
+    "timestamp": "2025-05-06T12:51:07.681530",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  },
+  {
+    "frame": "screenshot_003.png",
+    "timestamp": "2025-05-06T12:51:10.169870",
+    "description": "\u274c Error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"
+  }
+]
