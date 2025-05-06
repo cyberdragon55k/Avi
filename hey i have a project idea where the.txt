@@ -30,4 +30,6 @@ Avi - AI-Driven Video Insights
 AviFlow.in
 
 Tagline 
-"Illuminate your screen habits."
+"git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories
+"
