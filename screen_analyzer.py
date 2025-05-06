@@ -6,7 +6,7 @@ import json
 from datetime import datetime
 
 # === CONFIG ===
-API_KEY = "AIzaSyCNC7o8jOGZzBdb7KHKHBQOj29qwpJg7OI"  # Replace with your Gemini API key
+API_KEY = "0"  # Replace with your Gemini API key
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key={API_KEY}"
 HEADERS = {"Content-Type": "application/json"}
 
