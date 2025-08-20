@@ -1,5 +1,5 @@
 
-# Avi-Automated-Visual-Intelligence
+# Avi- Automated Visual Intelligence
 
 **Avi** 🤖 is an AI-powered system that transforms raw screen recordings into intelligent, classified insights. By integrating FFmpeg, Firebase, and Google Gemini API, Avi automates screen data capture, frame extraction, and AI-based visual analysis — making it easy to understand what was happening on screen, when, and why.
 
