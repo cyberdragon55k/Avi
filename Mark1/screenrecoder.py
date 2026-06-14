@@ -44,13 +44,24 @@ def analyze_screenshot(image_path):
             model=MODEL_NAME,
             messages=[{
                 'role': 'user',
-                'content': 'Identify the active window or application open and state what task the user is working on in one concise sentence.',
+                'content': '''
+Analyze this laptop screenshot and provide:
+
+1. Active application/window name.
+2. What the user is currently doing.
+3. Visible software, websites, IDEs, or tools.
+4. Important text, filenames, URLs, or code visible.
+5. If coding, identify the programming language, framework, and project purpose.
+6. One-sentence summary of the user's current task.
+
+Be precise and avoid guessing when information is unclear.
+''',
                 'images': [image_path]
             }]
         )
-        return response['message']['content'].strip()
+        return response['message']['content']
     except Exception as e:
-        return f"Inference Error: {e}"
+        return f"Error: {e}"
 
 
 def main():
