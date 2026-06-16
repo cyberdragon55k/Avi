@@ -56,6 +56,13 @@ Analyze this laptop screenshot and provide:
 6. One-sentence summary of the user's current task.
 7. you are a intelligent screen reader .
 
+
+
+
+
+
+
+
 Be precise and avoid guessing when information is unclear.
 ''',
                 'images': [image_path]
