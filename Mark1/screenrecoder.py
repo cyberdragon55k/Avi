@@ -59,6 +59,15 @@ Analyze this laptop screenshot and provide:
 
 
 
+1. Active application/window name.
+2. What the user is currently doing.
+3. Visible software, websites, IDEs, or tools.
+4. Important text, filenames, URLs, or code visible.
+5. If coding, identify the programming language, framework, and project purpose.
+6. One-sentence summary of the user's current task.
+7. you are a intelligent screen reader .
+
+
 
 
 
