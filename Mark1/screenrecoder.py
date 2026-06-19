@@ -8,7 +8,7 @@ import ollama
 
 # why not train an build own ai for this work
 
-CAPTURE_INTERVAL = 10
+CAPTURE_INTERVAL = 1100
 MODEL_NAME = "moondream"
 CSV_FILE = "productivity_log.csv"
 
@@ -94,7 +94,7 @@ def main():
             time.sleep(CAPTURE_INTERVAL)
             
     except KeyboardInterrupt:
-        print("\n🛑 Background Agent safely terminated.")
+        print("\n🛑 Background Agent safely terminated Successfully.")
         if os.path.exists(TEMP_IMAGE_PATH):
             os.remove(TEMP_IMAGE_PATH)
 
