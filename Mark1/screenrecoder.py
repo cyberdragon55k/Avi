@@ -7,6 +7,8 @@ from PIL import Image
 import ollama
 
 # why not train an build own ai for this work
+# image scanner 
+#image reader
 
 CAPTURE_INTERVAL = 1100
 MODEL_NAME = "moondream"
