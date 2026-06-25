@@ -14,6 +14,14 @@ import ollama
 # image scanner 
 #image reader# why not train an build own ai for this work
 # image scanner 
+#image reader# why not train an build own ai for this work
+# image scanner 
+#image reader# why not train an build own ai for this work
+# image scanner 
+#image reader# why not train an build own ai for this work
+# image scanner 
+#image reader# why not train an build own ai for this work
+# image scanner 
 #image reader
 
 CAPTURE_INTERVAL = 1100
